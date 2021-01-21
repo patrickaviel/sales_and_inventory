@@ -1,0 +1,15 @@
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\bin\Debug\SalesAndInventorySample.exe.config
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\bin\Debug\SalesAndInventorySample.exe
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\bin\Debug\SalesAndInventorySample.pdb
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\bin\Debug\SalesAndInventorySample.xml
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.Form1.resources
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.Resources.resources
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.vbproj.GenerateResource.Cache
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.exe
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.xml
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.pdb
+C:\Users\PC-Admin\AppData\Local\Temporary Projects\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.Index.resources
+D:\Project\SalesAndInventorySample\SalesAndInventorySample\bin\Debug\SalesAndInventorySample.exe.config
+D:\Project\SalesAndInventorySample\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.exe
+D:\Project\SalesAndInventorySample\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.xml
+D:\Project\SalesAndInventorySample\SalesAndInventorySample\obj\Debug\SalesAndInventorySample.pdb
